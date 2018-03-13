@@ -1,0 +1,3 @@
+rootProject.name = 'Booking'
+
+include ':app'
